@@ -23,7 +23,7 @@ import com.Howie.mvc.annotation.MyController;
 import com.Howie.mvc.annotation.MyRequestMapping;
 
 @SuppressWarnings("serial")
-public class MyDispacherServlet extends HttpServlet {
+public class MyDispatcherServlet extends HttpServlet {
 
 	//加载配置文件
 	private Properties properties = new Properties();
