@@ -17,7 +17,6 @@ public class Main
     	   Robot aiRobot = (Robot) applicationContext.getBean("robot");
     	   aiRobot.show();
        } catch (Exception e) {
-    	   // TODO Auto-generated catch block
     	   e.printStackTrace();
        }
     }

@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="miniSpring-mvc:war">
-    <output-path>$PROJECT_DIR$/miniSpring-mvc/target</output-path>
-    <root id="archive" name="miniSpring-mvc.war">
-      <element id="artifact" artifact-name="miniSpring-mvc:war exploded" />
-    </root>
-  </artifact>
-</component>
