@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="miniSpring-aop" />
+        <module name="miniSpring-ioc" />
+        <module name="miniSpring-mvc" />
+        <module name="miniSpring-utils" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="miniSpring" target="1.8" />
+      <module name="miniSpring-aop" target="1.8" />
+      <module name="miniSpring-ioc" target="1.8" />
+      <module name="miniSpring-mvc" target="1.8" />
+      <module name="miniSpring-utils" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
